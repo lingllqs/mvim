@@ -1,0 +1,4 @@
+nvim
+*.out
+*.a
+*.so
