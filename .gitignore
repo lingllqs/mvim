@@ -1,4 +1,4 @@
-./nvim
+./mvim
 *.out
 *.a
 *.so
