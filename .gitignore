@@ -1,4 +1,4 @@
-./mvim
 *.out
 *.a
 *.so
+build/
